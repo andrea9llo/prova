@@ -1,0 +1,9 @@
+/* style header */
+.testocenter{
+  text-align: center;
+  background: yellow;
+}
+#scrittura{
+  font-family: verdana,arial,sans-serif;
+  border: solid 2px #6f0;
+}
